@@ -1,0 +1,17 @@
+{
+  "name": "org.nuget.system.net.serversentevents",
+  "displayName": "System.Net.ServerSentEvents (NuGet)",
+  "version": "10.0.3",
+  "unity": "2019.1",
+  "description": "Provides a simple parser for server-sent events (SSE).\n\nCommonly Used Types:\nSystem.Net.ServerSentEvents.SseParser",
+  "keywords": [
+    "nuget"
+  ],
+  "category": null,
+  "dependencies": {
+    "org.nuget.microsoft.bcl.asyncinterfaces": "10.0.3",
+    "org.nuget.system.memory": "4.6.3",
+    "org.nuget.system.threading.tasks.extensions": "4.6.3"
+  },
+  "_fingerprint": "d4266c93808ea6276757202604e6e861336a13f4"
+}

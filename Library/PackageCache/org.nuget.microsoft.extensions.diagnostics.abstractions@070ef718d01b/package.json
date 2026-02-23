@@ -1,0 +1,19 @@
+{
+  "name": "org.nuget.microsoft.extensions.diagnostics.abstractions",
+  "displayName": "Microsoft.Extensions.Diagnostics.Abstractions (NuGet)",
+  "version": "10.0.3",
+  "unity": "2019.1",
+  "description": "Diagnostic abstractions for Microsoft.Extensions.Diagnostics.\n\nCommonly Used Types:\nMicrosoft.Extensions.Diagnostics.Metrics.IMetricsBuilder\nMicrosoft.Extensions.Diagnostics.Metrics.IMetricsListener\nMicrosoft.Extensions.Diagnostics.Metrics.InstrumentRule\nMicrosoft.Extensions.Diagnostics.Metrics.MeterScope\nMicrosoft.Extensions.Diagnostics.Metrics.MetricsBuilderExtensions\nMicrosoft.Extensions.Diagnostics.Metrics.MetricsOptions",
+  "keywords": [
+    "nuget"
+  ],
+  "category": null,
+  "dependencies": {
+    "org.nuget.microsoft.extensions.dependencyinjection.abstractions": "10.0.3",
+    "org.nuget.microsoft.extensions.options": "10.0.3",
+    "org.nuget.system.diagnostics.diagnosticsource": "10.0.3",
+    "org.nuget.system.buffers": "4.6.1",
+    "org.nuget.system.memory": "4.6.3"
+  },
+  "_fingerprint": "070ef718d01bd8886b68d6216b68b96355c3bc03"
+}

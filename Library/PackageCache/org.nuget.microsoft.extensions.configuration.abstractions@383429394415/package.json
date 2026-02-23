@@ -1,0 +1,15 @@
+{
+  "name": "org.nuget.microsoft.extensions.configuration.abstractions",
+  "displayName": "Microsoft.Extensions.Configuration.Abstractions (NuGet)",
+  "version": "10.0.3",
+  "unity": "2019.1",
+  "description": "Provides abstractions of key-value pair based configuration. Interfaces defined in this package are implemented by classes in Microsoft.Extensions.Configuration and other configuration packages.",
+  "keywords": [
+    "nuget"
+  ],
+  "category": null,
+  "dependencies": {
+    "org.nuget.microsoft.extensions.primitives": "10.0.3"
+  },
+  "_fingerprint": "3834293944152bff570f74fcb20b1cdd96948253"
+}

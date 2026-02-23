@@ -1,0 +1,15 @@
+{
+  "name": "org.nuget.microsoft.extensions.fileproviders.abstractions",
+  "displayName": "Microsoft.Extensions.FileProviders.Abstractions (NuGet)",
+  "version": "10.0.3",
+  "unity": "2019.1",
+  "description": "Abstractions of files and directories.\n\nCommonly Used Types:\nMicrosoft.Extensions.FileProviders.IDirectoryContents\nMicrosoft.Extensions.FileProviders.IFileInfo\nMicrosoft.Extensions.FileProviders.IFileProvider",
+  "keywords": [
+    "nuget"
+  ],
+  "category": null,
+  "dependencies": {
+    "org.nuget.microsoft.extensions.primitives": "10.0.3"
+  },
+  "_fingerprint": "6dfc2275c5b98302ab720f710631eca07dc85e62"
+}

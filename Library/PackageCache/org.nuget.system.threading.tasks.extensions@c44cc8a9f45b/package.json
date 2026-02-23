@@ -1,0 +1,15 @@
+{
+  "name": "org.nuget.system.threading.tasks.extensions",
+  "displayName": "System.Threading.Tasks.Extensions (NuGet)",
+  "version": "4.6.3",
+  "unity": "2019.1",
+  "description": "System.Threading.Tasks.Extensions",
+  "keywords": [
+    "nuget"
+  ],
+  "category": null,
+  "dependencies": {
+    "org.nuget.system.runtime.compilerservices.unsafe": "6.1.2"
+  },
+  "_fingerprint": "c44cc8a9f45b93872cee79d80fd46e4dac411240"
+}

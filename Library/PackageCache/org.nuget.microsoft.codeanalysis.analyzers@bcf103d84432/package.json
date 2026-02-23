@@ -1,0 +1,23 @@
+{
+  "name": "org.nuget.microsoft.codeanalysis.analyzers",
+  "displayName": "Microsoft.CodeAnalysis.Analyzers (NuGet)",
+  "version": "3.11.0",
+  "unity": "2019.1",
+  "description": "Analyzers for consumers of Microsoft.CodeAnalysis NuGet package, i.e. extensions and applications built on top of .NET Compiler Platform (Roslyn). This package is included as a development dependency of Microsoft.CodeAnalysis NuGet package and does not need to be installed separately if you are referencing Microsoft.CodeAnalysis NuGet package.",
+  "keywords": [
+    "nuget",
+    "Roslyn",
+    "CodeAnalysis",
+    "Compiler",
+    "CSharp",
+    "VB",
+    "VisualBasic",
+    "Diagnostic",
+    "Analyzers",
+    "Syntax",
+    "Semantics"
+  ],
+  "category": null,
+  "dependencies": {},
+  "_fingerprint": "bcf103d84432fd092cbb7b01be4aeb3ad0be0358"
+}

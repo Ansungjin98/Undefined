@@ -1,0 +1,13 @@
+{
+  "name": "org.nuget.system.numerics.vectors",
+  "displayName": "System.Numerics.Vectors (NuGet)",
+  "version": "4.6.1",
+  "unity": "2019.1",
+  "description": "System.Numerics.Vectors",
+  "keywords": [
+    "nuget"
+  ],
+  "category": null,
+  "dependencies": {},
+  "_fingerprint": "6cbe0e354ad784e9be7677c2c9cc23f93c5418b7"
+}

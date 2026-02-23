@@ -1,0 +1,17 @@
+{
+  "name": "org.nuget.system.text.encodings.web",
+  "displayName": "System.Text.Encodings.Web (NuGet)",
+  "version": "10.0.3",
+  "unity": "2019.1",
+  "description": "Provides types for encoding and escaping strings for use in JavaScript, HyperText Markup Language (HTML), and uniform resource locators (URL).\n\nCommonly Used Types:\nSystem.Text.Encodings.Web.HtmlEncoder\nSystem.Text.Encodings.Web.UrlEncoder\nSystem.Text.Encodings.Web.JavaScriptEncoder",
+  "keywords": [
+    "nuget"
+  ],
+  "category": null,
+  "dependencies": {
+    "org.nuget.system.buffers": "4.6.1",
+    "org.nuget.system.memory": "4.6.3",
+    "org.nuget.system.runtime.compilerservices.unsafe": "6.1.2"
+  },
+  "_fingerprint": "9b78704b2c617e9f615dfe24a0ea0070f51f1170"
+}

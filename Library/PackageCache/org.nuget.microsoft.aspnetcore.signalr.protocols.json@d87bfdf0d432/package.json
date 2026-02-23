@@ -1,0 +1,17 @@
+{
+  "name": "org.nuget.microsoft.aspnetcore.signalr.protocols.json",
+  "displayName": "Microsoft.AspNetCore.SignalR.Protocols.Json (NuGet)",
+  "version": "10.0.3",
+  "unity": "2019.1",
+  "description": "Implements the SignalR Hub Protocol using System.Text.Json.\n\nThis package was built from the source code at https://github.com/dotnet/dotnet/tree/c2435c3e0f46de784341ac3ed62863ce77e117b4",
+  "keywords": [
+    "nuget",
+    "aspnetcore",
+    "signalr"
+  ],
+  "category": null,
+  "dependencies": {
+    "org.nuget.microsoft.aspnetcore.signalr.common": "10.0.3"
+  },
+  "_fingerprint": "d87bfdf0d432e4f6e270f48261fc8371639918bc"
+}

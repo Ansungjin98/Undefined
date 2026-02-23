@@ -1,0 +1,16 @@
+{
+  "name": "org.nuget.system.threading.channels",
+  "displayName": "System.Threading.Channels (NuGet)",
+  "version": "10.0.3",
+  "unity": "2019.1",
+  "description": "Provides types for passing data between producers and consumers.\n\nCommonly Used Types:\nSystem.Threading.Channel\nSystem.Threading.Channel<T>",
+  "keywords": [
+    "nuget"
+  ],
+  "category": null,
+  "dependencies": {
+    "org.nuget.microsoft.bcl.asyncinterfaces": "10.0.3",
+    "org.nuget.system.threading.tasks.extensions": "4.6.3"
+  },
+  "_fingerprint": "999c60a196d4c52970ab98baebee45ef6beea630"
+}

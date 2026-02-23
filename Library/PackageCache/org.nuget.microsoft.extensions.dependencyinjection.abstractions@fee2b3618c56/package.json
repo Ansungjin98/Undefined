@@ -1,0 +1,16 @@
+{
+  "name": "org.nuget.microsoft.extensions.dependencyinjection.abstractions",
+  "displayName": "Microsoft.Extensions.DependencyInjection.Abstractions (NuGet)",
+  "version": "10.0.3",
+  "unity": "2019.1",
+  "description": "Abstractions for dependency injection.\n\nCommonly Used Types:\nMicrosoft.Extensions.DependencyInjection.IServiceCollection",
+  "keywords": [
+    "nuget"
+  ],
+  "category": null,
+  "dependencies": {
+    "org.nuget.microsoft.bcl.asyncinterfaces": "10.0.3",
+    "org.nuget.system.threading.tasks.extensions": "4.6.3"
+  },
+  "_fingerprint": "fee2b3618c56dd83085293599127e70257575cb3"
+}

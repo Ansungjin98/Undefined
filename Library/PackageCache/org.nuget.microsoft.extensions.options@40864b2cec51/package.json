@@ -1,0 +1,17 @@
+{
+  "name": "org.nuget.microsoft.extensions.options",
+  "displayName": "Microsoft.Extensions.Options (NuGet)",
+  "version": "10.0.3",
+  "unity": "2019.1",
+  "description": "Provides a strongly typed way of specifying and accessing settings using dependency injection.",
+  "keywords": [
+    "nuget"
+  ],
+  "category": null,
+  "dependencies": {
+    "org.nuget.microsoft.extensions.dependencyinjection.abstractions": "10.0.3",
+    "org.nuget.microsoft.extensions.primitives": "10.0.3",
+    "org.nuget.system.componentmodel.annotations": "5.0.0"
+  },
+  "_fingerprint": "40864b2cec5190a6238421434328357e14145e9c"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "org.nuget.microsoft.extensions.logging",
+  "displayName": "Microsoft.Extensions.Logging (NuGet)",
+  "version": "10.0.3",
+  "unity": "2019.1",
+  "description": "Logging infrastructure default implementation for Microsoft.Extensions.Logging.",
+  "keywords": [
+    "nuget"
+  ],
+  "category": null,
+  "dependencies": {
+    "org.nuget.microsoft.bcl.asyncinterfaces": "10.0.3",
+    "org.nuget.microsoft.extensions.dependencyinjection": "10.0.3",
+    "org.nuget.microsoft.extensions.logging.abstractions": "10.0.3",
+    "org.nuget.microsoft.extensions.options": "10.0.3",
+    "org.nuget.system.diagnostics.diagnosticsource": "10.0.3"
+  },
+  "_fingerprint": "e4bbef2e615c2b8e6693dcada76a341f32bd1158"
+}

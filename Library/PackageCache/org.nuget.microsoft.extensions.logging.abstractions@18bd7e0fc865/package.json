@@ -1,0 +1,18 @@
+{
+  "name": "org.nuget.microsoft.extensions.logging.abstractions",
+  "displayName": "Microsoft.Extensions.Logging.Abstractions (NuGet)",
+  "version": "10.0.3",
+  "unity": "2019.1",
+  "description": "Logging abstractions for Microsoft.Extensions.Logging.\n\nCommonly Used Types:\nMicrosoft.Extensions.Logging.ILogger\nMicrosoft.Extensions.Logging.ILoggerFactory\nMicrosoft.Extensions.Logging.ILogger<TCategoryName>\nMicrosoft.Extensions.Logging.LogLevel\nMicrosoft.Extensions.Logging.Logger<T>\nMicrosoft.Extensions.Logging.LoggerMessage\nMicrosoft.Extensions.Logging.Abstractions.NullLogger",
+  "keywords": [
+    "nuget"
+  ],
+  "category": null,
+  "dependencies": {
+    "org.nuget.microsoft.extensions.dependencyinjection.abstractions": "10.0.3",
+    "org.nuget.system.diagnostics.diagnosticsource": "10.0.3",
+    "org.nuget.system.buffers": "4.6.1",
+    "org.nuget.system.memory": "4.6.3"
+  },
+  "_fingerprint": "18bd7e0fc8653297110e470c53b3638b0d6406ce"
+}
