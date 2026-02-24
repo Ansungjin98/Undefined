@@ -1,4 +1,0 @@
-interface:
-  display_name: "Undefined Unity C# Rules"
-  short_description: "Undefined 퍼즐 게임 Unity C# 구현 규칙"
-  default_prompt: "작업명세서 우선으로 Undefined Unity C# 구현을 진행해."
